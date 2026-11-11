@@ -14,7 +14,7 @@ Drop an AI agent into a group chat and every member suddenly holds the same keys
 
 **EP.02 ・ [MCP Pin](https://github.com/yuzuru99/hermes-mcp-pin)**
 
-The MCP server you trusted ships an update: same tool name, new orders hidden in the description. MCP Pin fingerprints every MCP tool Hermes loads, keeps any changed definition away from the model, and blocks the call until you've read the full diff and approved that exact version. It made it past two rounds of independent audit before it aired. ([marketplace](https://hermes-agent.nousresearch.com/marketplace/mcp-pin))
+The MCP server you trusted ships an update: same tool name, new orders hidden in the description. MCP Pin fingerprints every MCP tool Hermes loads, keeps any changed definition away from the model, and blocks the call until you've read the full diff and approved that exact version. It made it past two rounds of independent audit before it aired. ([trailer](https://x.com/agungkzn/status/2120147386370838869) ・ [marketplace](https://hermes-agent.nousresearch.com/marketplace/mcp-pin))
 
 <sub>Both episodes are merged into the official Hermes plugin catalog.</sub>
 
